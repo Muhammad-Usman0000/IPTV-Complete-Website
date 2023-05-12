@@ -1,0 +1,600 @@
+.bg_navigation {
+  background-image: linear-gradient(to right, blue, red);
+  padding: 30px 0px;
+}
+
+.brand_namecss:hover {
+  background-image: linear-gradient(to right, blue, red);
+  border-radius: 10px;
+  color: darkgoldenrod;
+}
+
+.brand-iconcss:hover {
+  background-image: linear-gradient(to right, red, blue);
+  border-radius: 10px;
+}
+
+.navigation_css {
+  font-size: 14px;
+}
+
+.navigation_css:hover {
+  background-image: linear-gradient(to right, red, orange);
+  border-radius: 10px;
+}
+
+.contact_uscss {
+  text-decoration: none;
+
+  color: white;
+  font-size: 15px;
+}
+
+.navtele_iconcss {
+  color: white;
+}
+
+.telicon_contctus {
+  background-color: sienna;
+  padding: 6px 20px;
+  margin-right: 40px;
+  border-radius: 30px;
+  color: white;
+}
+
+.telicon_contctus:hover {
+  background-image: linear-gradient(to right, yellow, rgb(255, 0, 157));
+}
+
+/* .social_iconcss{
+  margin-top: 1px;
+} */
+
+.header_carouselcss {
+  /* background-image: linear-gradient(rgba(6,21,39,0.502),rgba(10, 121, 255, 0.502)),  */
+  filter: brightness(0.4);
+  /* transition-duration: 2s all; */
+  /* animation: zoom-in-zoom-out 12s infinite;
+  animation-direction: alternate; */
+  height: 1000px;
+}
+
+/* @keyframes zoom-in-zoom-out {
+  0% {
+    transform: scale(1, 1);
+  }
+ 
+  100% {
+    transform: scale(1.1);
+  }
+} */
+
+.banner_paracss {
+  padding: 11px 118px;
+}
+
+.bannerbutton_css {
+  border-radius: 30px;
+  background-color: sienna;
+  /* border: 2px solid sienna; */
+  padding: 10px 27px;
+  color: white;
+}
+
+.bannerbutton_css:hover {
+  background-image: linear-gradient(to right, yellow, rgb(255, 0, 157));
+}
+
+/* ............................................................................... */
+
+.whole-moviesectioncss {
+  padding: 20px;
+  margin-top: 7%;
+  font-size: 20px;
+  /* background-image: linear-gradient(to right, lightblue, lightblue); */
+}
+
+.banner_textcss {
+  padding-bottom: 14%;
+}
+
+.tvseries_css {
+  font-size: 68px;
+  color: #6da0f2;
+}
+
+.movie-section {
+  padding: 10px 0px 10px 0px;
+  /* border: 3px solid green; */
+  border-radius: 11px;
+  box-shadow: 4px 0px 27px 0px darkgrey;
+}
+
+.movie_css {
+  color: #fa8d25;
+}
+
+.aboutus_css {
+  padding-top: 80px;
+  color: #fa8d25;
+}
+
+.dad-son-sectioncss {
+  /* padding-top: 80px; */
+}
+
+.img_badgecss {
+  background-color: #fa8d25;
+  padding: 11px 24px;
+  border-radius: 4px 67px;
+  position: relative;
+  top: 119px;
+  margin-left: 48px;
+}
+
+.true_icon_section {
+  margin-left: -30px;
+}
+
+.trueicon_css {
+  background-color: #fa8d25;
+  color: white;
+  font-size: 12px;
+  padding: 2px;
+}
+
+.left_listcss {
+  list-style: none;
+}
+
+.wifi_iconcss {
+  font-size: 20px;
+  background-color: #fa8d25;
+  color: white;
+  padding: 12px;
+}
+
+.wifi_iconcss:hover {
+  color: #6da0f2;
+}
+
+.server_digit {
+  color: #fa8d25;
+}
+
+.server_paracss {
+  padding-left: 66px;
+}
+
+.client_worldcss {
+  padding-left: 215px;
+}
+
+/* ........................................................ */
+
+.ourpackages_css {
+  color: #fa8d25;
+  padding-top: 122px;
+}
+
+.ourpackagesheading_css {
+  color: #fa8d25;
+}
+
+.connection1-text {
+  color: #fa8d25;
+}
+
+.connection-section {
+  background-image: linear-gradient(to right,
+      rgb(80, 164, 197),
+      rgb(245, 245, 115),
+      rgb(181, 181, 219));
+  height: max-content;
+  border-radius: 20px;
+  padding: 16px 0px 50px 0px;
+  margin-top: 70px;
+}
+
+.packages_link {
+  background-color: sienna;
+  color: white;
+  border: 1px;
+}
+
+.connection-section-lifetime {
+  background-image: linear-gradient(to right,
+      rgb(218, 148, 224),
+      rgb(245, 245, 115),
+      rgb(241, 165, 201));
+  height: max-content;
+  border-radius: 20px;
+  padding: 16px 0px 50px 0px;
+  margin-top: 70px;
+}
+
+.connection-section-5 {
+  background-image: linear-gradient(to right,
+      rgb(160, 113, 113),
+      rgb(245, 245, 115),
+      rgb(165, 241, 209));
+  height: max-content;
+  border-radius: 20px;
+  padding: 16px 0px 50px 0px;
+  margin-top: 70px;
+}
+
+.connection-section-2 {
+  background-image: linear-gradient(to right,
+      rgb(97, 237, 255),
+      rgb(245, 245, 115),
+      rgba(120, 122, 247, 0.425));
+  height: max-content;
+  border-radius: 20px;
+  padding: 16px 0px 50px 0px;
+  margin-top: 70px;
+}
+
+.packages_link:hover {
+  background-image: linear-gradient(to right, yellow, rgb(255, 0, 157));
+  border: 1px;
+}
+
+/* ................................................................................................. */
+.iptv-paracss {
+  padding: 0px 0px 0px 0px;
+}
+
+/* ..................................................................................................... */
+.footer-section {
+  background-color: skyblue;
+  padding: 20px 95px 10px 95px;
+
+}
+/* installatiion page */
+.forpaadingcss{
+  padding-bottom: 15%;
+
+}
+ /* FAQ ........... */
+ .faqcss{
+  padding-bottom: 15%;
+ }
+
+ .contactus-css{
+ 
+  padding-bottom: 15%;
+
+  
+
+ }
+ .accountsubmit-css{
+  padding-bottom: 15%;
+  
+}
+.resseler-css{
+   padding-bottom: 15%;
+
+ }
+
+
+/* ............................ START MEDIA QUERY ..........................  */
+/* ........................... MEDIA QUERY FOR MOBILE .............................. */
+
+@media only screen and (max-width: 767px) {
+  .telicon_contctus {
+    display: none;
+  }
+
+  .header_carouselcss {
+    height: 265px;
+  }
+
+  .banner_textcss {
+    padding-bottom: 0%;
+  }
+
+  .banner_paracss {
+    padding: 0px 0px;
+    font-size: 11px;
+  }
+
+  .bannerbutton_css {
+    padding: 5px 10px;
+
+    font-size: 10px;
+  }
+
+  .carousel-headingcss {
+    font-size: 15px;
+  }
+
+  .movie-section {
+    margin-bottom: 20px;
+  }
+
+  .aboutuspara_css {
+    font-size: 14px;
+  }
+
+  .left_sectioncss {
+    flex-direction: column;
+  }
+
+  .aboutus_goodicon {
+    margin-left: 0px !important;
+    margin-top: -13px;
+  }
+
+  .dad_soncss {
+    margin-left: 0px !important;
+    margin-top: -81px;
+  }
+
+  .img_badgecss {
+    top: 33px;
+    margin-left: 0px;
+  }
+
+  .client_worldcss {
+    padding-left: 0px;
+  }
+
+  .server-clienticon {
+    flex-direction: column;
+  }
+
+  .server_paracss {
+    padding-left: 61px;
+  }
+
+  .ourpackages_css {
+    padding-top: 53px;
+  }
+
+  .iptv-paracss {
+    padding: 0px 5px 0px 5px !important;
+  }
+
+  .footer-contactcss {
+    float: none !important;
+    font-size: 19px;
+    margin-left: -17px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .footer-section {
+    padding: 50px 38px 50px 47px;
+    font-size: 22px;
+  }
+}
+
+/* ...................... CLOSE MOBILE MEDIA QUERY ........................... */
+
+/* ...................... START TAB MEDIA QUERY ................................... */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .telicon_contctus {
+    margin-top: 30px;
+  }
+
+  .header_carouselcss {
+    height: 500px;
+  }
+
+  .banner_textcss {
+    padding-bottom: 0%;
+  }
+
+  .bannerbutton_css {
+    padding: 5px 20px;
+
+    margin-top: -33px !important;
+  }
+
+  .movie-section {
+    margin-top: 20px;
+  }
+
+  .dad_soncss {
+    margin-left: 0px !important;
+  }
+
+  .img_badgecss {
+    top: 117px;
+    margin-left: 0px;
+  }
+
+  .ourpackages_css {
+    padding-top: 68px;
+  }
+
+  .iptv-paracss {
+    padding: 0px !important;
+  }
+
+  .footer-contactcss {
+    float: none !important;
+  }
+
+  .footer-section {
+    background-color: skyblue;
+    padding: 20px 95px 20px 95px;
+    font-size: 22px;
+  }
+}
+
+/* ...........................CLOSE  MEDIA QUERY FOR tab/medium .............................. */
+
+/* ........................... MEDIA QUERY FOR LARGE SCREEN .............................. */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .bg_navigation {
+    flex-wrap: wrap;
+  }
+
+  .header_carouselcss {
+    height: 584px;
+  }
+
+  .dad_soncss {
+    margin-left: 0px !important;
+  }
+
+  .aboutus_goodicon {
+    margin-left: 0px !important;
+  }
+
+  .ourpackages_css {
+    padding-top: 77px;
+  }
+
+  .connection-section-lifetime {
+    padding: 58px 0px 50px 0px;
+  }
+
+  .img_badgecss {
+    margin-left: 0px;
+  }
+}
+
+/* ...........................CLOSE  MEDIA QUERY FOR LARGE SCREEN .............................. *
+/* ...........................CLOSE  COMPLETE HOME PAGE WITH MEDIA QUERY .............................. */
+
+/* ........................... START PACKAGE-SECTION .............................. */
+
+.dropdown_css {
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-right: 10%;
+  margin-top: -56px;
+}
+
+/* .................. start border animation...................... */
+.cart-linkcss {
+  color: black;
+  font-size: 17px;
+  margin-top: -11px;
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.addtocart-css {
+  display: block;
+  padding: 10px 13px;
+  position: relative;
+}
+
+.cart-linkcss::before,
+.cart-linkcss::after,
+.addtocart-css::before,
+.addtocart-css::after {
+  content: "";
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 0.15s ease-in-out 0s;
+}
+
+.cart-linkcss::before,
+.cart-linkcss::after {
+  width: 2px;
+  height: 0;
+}
+
+.addtocart-css::before,
+.addtocart-css::after {
+  width: 0;
+  height: 2px;
+  transition-delay: 0.15s;
+}
+
+.cart-linkcss::after {
+  top: auto;
+  left: auto;
+  right: 0;
+  bottom: 0;
+}
+
+.addtocart-css::before {
+  right: 0;
+  left: auto;
+}
+
+.addtocart-css::after {
+  top: auto;
+  bottom: 0;
+}
+
+.cart-linkcss:hover::before,
+.cart-linkcss:hover::after {
+  height: 100%;
+  transition-delay: 0.15s;
+}
+
+.cart-linkcss:hover .addtocart-css::before,
+.cart-linkcss:hover .addtocart-css::after {
+  width: 100%;
+  transition-delay: 0s;
+}
+
+/* .................. end border animation...................... */
+.forpaddingbottomcss {
+  padding-bottom: 15%;
+}
+
+/* .......................... start media query for mobile screen .......................................... */
+
+@media only screen and (max-width: 767px) {
+  .card-controlercss {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .dropdown_css {
+    margin-top: -42px;
+  }
+}
+
+/* .......................... end  media query for mobile screen .......................................... */
+
+/* .......................... start media query for medium/tab screen .......................................... */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .card-controlercss {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .dropdown_css {
+    margin-top: -40px;
+  }
+}
+
+/* ..........................end media query for medium/tab screen .......................................... */
+
+/* .......................... END PACKAGE-PAGE .......................................... */
+
+/* .......................... START ADD TO CART 1 MONTH 1 CONNECTION .......................................... */
+
+.similarparacss{
+  margin-top: -16px;
+}
+
+.star-css{
+background-color: maroon;
+color: white;
+padding: 5px;
+}
+
+.star-css:hover{
+  color: navy;
+}
+.refundreturn-css{
+  padding-bottom: 15%;
+  width:25px !important;
+  flex-direction: ;
+}
